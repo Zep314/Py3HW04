@@ -35,7 +35,7 @@ if __name__ == '__main__':
     print_matrix(transpose_matrix(mmatrix))
 
 # Результат работы:
-# C:\Work\python\dz3\Py3HW04\venv\Scripts\python.exe C:/Work/python/dz3/Py3HW04/task01.py
+# /home/user/Work/Python/dz3/Py3HW04/venv/bin/python /home/user/Work/Python/dz3/Py3HW04/task01.py
 # Исходная матрица:
 # [1, 2, 3, 4]
 # [5, 6, 7, 8]
